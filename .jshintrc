@@ -1,0 +1,14 @@
+{
+  "moz": true,
+  "boss": true,
+  "node": true,
+  "globals": {
+    "EventEmitter": true,
+    "Promise": true,
+    "log": true
+  },
+  "browser": true,
+  "undef": true,
+  "unused": true,
+  "-W014": true
+}
